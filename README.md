@@ -2,4 +2,4 @@
 
 ## Running Postman tests
 
-Please find attached an export of all Postman requests for the API.
+Please find attached an export of all Postman requests for the API (MongoDB.postman_collection.json).
